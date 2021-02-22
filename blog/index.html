@@ -1,12 +1,13 @@
 ---
 layout: default
 title: Shubham Dhapola - My Personal Blog
+style: "css/blog.css"
 ---
 
  <h1>{{page.title}}</h1>
  <ul class="posts">
-  <p> {page.date} - Written By : {page.author} </p>
   {% for post in site.posts %}
+  <p> {post.date} - Written By : {post.author} </p>
   <li><span> {{ post.date | date_to_string }} </span> >> <a href="{{post.url}}" title="{{post.title}}> {{post.title}} </a></li>
   {% endfor %}
  </ul>
