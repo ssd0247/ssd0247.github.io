@@ -1,10 +1,17 @@
 ul .posts {
   align: center;
+  padding: 0;
+  margin-left:2px;
+  margin-right: 2px;
 }
 
 li {
+  padding: 0px;
+  margin-left: 20px;
+  margin-right: 20px;
   align: center;
   position: fixed;
+  display: inline;
   background-image: linear-gradient(to right bottom, rgba(255,255,255,0.5), rgba(192,192,192,0.5));
   font-family: monospace;
   color: black;
