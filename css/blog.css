@@ -1,1 +1,12 @@
+ul .posts {
+  align: center;
+}
+
+li {
+  align: center;
+  position: fixed;
+  background-image: linear-gradient(to right bottom, rgba(255,255,255,0.5), rgba(192,192,192,0.5));
+  font-family: monospace;
+  color: black;
+}
 
