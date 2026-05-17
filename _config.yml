@@ -3,6 +3,6 @@ plugins:
 - jekyll-remote-theme
 
 title: Musings of a data nerd! - By Shubham Dhapola
-description: Welcome to my experimentation lab! Here, we will dissect the innards of ML models, build hypothesis and run experiments to validate what works, reason about why something fails & will try to have fun while doing it!
+description: Welcome to my experimentation lab! Here, we will dissect the innards of ML models, build hypothesis and run experiments to validate what works, reason about why something fails & will try to have fun while doing it all!
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
