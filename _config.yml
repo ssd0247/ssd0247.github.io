@@ -1,6 +1,6 @@
 name: Shubham's Personal Blog
 remote_theme: pages-themes/hacker@v0.2.0
 title: Musings of a data nerd!
-description: Welcome to my experimentation lab! Here, we will dissect the innards of ML models, build hypothesis and run experiments to validate what works, reason about why something fails & above all, we will try to reach the uncharted depths of ML/AI concepts! Each post/project I will try to describe with all the nitty-gritty details of what keystrokes made the compiler (or interpreter) go bonkers & decisions behind trade-offs! Hope you have a fun time, as much as I enjoy writing about my excursions!
+description: Welcome to my experimentation lab! Here, we will dissect the innards of ML models, build hypothesis and run experiments to validate what works, reason about why something fails & will try to have fun while doing it!
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
